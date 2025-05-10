@@ -1,4 +1,5 @@
-Reestar Restaurant Website 🍴
+REESTAR RESTARUANT WEBSITE 🍴
+
 This is a simple two-page restaurant website created using HTML and CSS. It showcases the design of a fictional restaurant named Reestar, with a focus on clean layout and responsive styling.
 
 🔗 Pages Included
